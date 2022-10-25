@@ -1,4 +1,7 @@
 # cpp-properties
+
+**Note to Latence : This repository is required by Sapro and cannot be deleted without removing this dependency from Sapro's CMakeLists.txt**
+
 A small C++ Java properties parser.
 
 ## How to build
